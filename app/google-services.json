@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012141890406",
+    "project_id": "mockwithai-e4ffd",
+    "storage_bucket": "mockwithai-e4ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012141890406:android:8fd94d97e21385015446a7",
+        "android_client_info": {
+          "package_name": "abhishek.pathak.mockwithai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMla-acS6jRhMGARTqTbzDRoZCr_-ioc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
